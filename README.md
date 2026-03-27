@@ -26,6 +26,13 @@ Projekt ten oryginalnie powstał jako projekt hobbystyczny, gdyż w pokoju posia
   
 Projekt ten nie zostął jeszcze ukończony, przez co brakuje wcześniej wspomnianych zabezpieczeń oraz schematy SCH oraz BRD nie są w pełni skończone.
 
+Update:  
+  - Poprawiony schemat WT32, dodane dodatkowe wyjścia
+  - Dodane PWM do kontroli wentylatorów
+  - Poprawiony schemat głównego zasilania
+  - Dodany schemat wyjść
+
+
 
 STARE WERSJE:
 ![](SCH_całość.png)  
