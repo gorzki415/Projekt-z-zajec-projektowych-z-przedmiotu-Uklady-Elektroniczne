@@ -32,8 +32,15 @@ Update:
   - Poprawiony schemat głównego zasilania
   - Dodany schemat wyjść
 
-
-
+![](SCH_v2.png)
+![](S1.png)
+![](S2.png)
+![](S3.png)
+![](S4.png)
+![](S5.png)
+  
+  
+  
 STARE WERSJE:
 ![](SCH_całość.png)  
 ![](S1_WT32_Power.png)  
