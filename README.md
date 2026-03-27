@@ -25,7 +25,9 @@ Układ wyposażony został rónież w szereg punktów pomiarowych tak aby móc z
 Projekt ten oryginalnie powstał jako projekt hobbystyczny, gdyż w pokoju posiadam paski LED WS2815 i chciałem zaprojektować płytkę bazową, która będzie skupiała cały układ sterujący nimi w jednym miejscu. Zamiast zbioru komponentów elektronicznych połączonych między sobą i wrzuconych w pudełko, co też odbijało się na zakłócenia sygnału sterującego. Projekt ten zacząłem pod koniec ubiegłych wakacji, ale praca inżynierska miała większy priorytet więc go przerwałem. Teraz do niego powróciłem i wykorzystałem do jednych z zajęć projektowych. Całym układem steruje software open source o nazwie "Wled".  
   
 Projekt ten nie zostął jeszcze ukończony, przez co brakuje wcześniej wspomnianych zabezpieczeń oraz schematy SCH oraz BRD nie są w pełni skończone.
-  
+
+
+STARE WERSJE:
 ![](SCH_całość.png)  
 ![](S1_WT32_Power.png)  
 ![](S2_main.png)  
