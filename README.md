@@ -30,7 +30,8 @@ Update:
   - Poprawiony schemat WT32, dodane dodatkowe wyjścia
   - Dodane PWM do kontroli wentylatorów
   - Poprawiony schemat głównego zasilania
-  - Dodany schemat wyjść
+  - Dodany schemat wyjść  
+  - Dodany wstępny schemat BRD (brak ścieżek, tylko rozkład elementów)  
 
 ![](SCH_v2.png)
 ![](S1.png)
