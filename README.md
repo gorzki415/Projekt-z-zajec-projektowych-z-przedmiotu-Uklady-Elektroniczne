@@ -1,4 +1,5 @@
 # Projekt-z-zajec-projektowych-z-przedmiotu-Uklady-Elektroniczne
+English below.   
 Projekt wykonany na potrzeby zajęć projektowych z przedmiotu "Układy Elektroniczne"  
   
 (Trwający projekt, jeszcze nie dokończony)
@@ -38,7 +39,46 @@ Update 2:
   - Dodano układ CD4060E wykorzystywany jako przekaźnik TON
   - Poprawiono rozłożenie komponentów na schemacie BRD
   - Poprowadzono część ścieżek na schemacie BRD
+  
+English:  
 
+(Ongoing project, not yet completed)  
+The objective of the project is to design a PCB that includes:
+  - a 32-bit controller responsible for controlling the operation of the board,  
+  - the use of a single communication interface,
+  - at least one output connected to a load drawing a minimum current of 100 mA.
+
+Additionally, the board must be equipped with extra components to (theoretically) withstand tests such as burst, surge, and electromagnetic field immunity.  
+
+For the purposes of this project, an expansion board was designed for the WT32-ETH01 module. Using open-source software such as WLED, it will control connected LED strips.  
+
+The board is equipped with the SN74AHCT125 module from Texas Instruments to level-shift signals between the ESP module and the LED strip. The LED strips used are based on the WS2815 chip.  
+
+The system also includes an LM7805 voltage regulator, since WS2815 LED strips are powered with 12V, while the WT32-ETH01 module requires 5V. This allows the entire system to be powered from a single 12V power supply.  
+
+Additionally, the system includes two outputs for cooling fans powered at 12V — one dedicated to cooling the microcontroller and the other for cooling the power supply, ensuring proper thermal management during prolonged operation.  
+
+The system also includes a set of diagnostic LEDs, which can be enabled by moving jumpers to appropriate positions. Their purpose is to indicate whether voltage is present at specific components or connectors.  
+
+The board is also equipped with multiple test points to allow precise measurement of voltages supplied to key components or present in critical areas.  
+
+This project originally started as a hobby project. I have WS2815 LED strips in my room and wanted to design a base board that would integrate the entire control system into one place, instead of having a collection of loosely connected components placed in a box — which also caused signal interference issues. I began this project at the end of last summer but paused it due to prioritizing my engineering thesis. Now I have returned to it and adapted it for one of my project-based courses. The entire system is controlled using open-source software called WLED.  
+
+The project is not yet completed, and therefore the previously mentioned protections are still missing, and the SCH and BRD designs are not fully finalized.  
+
+Update 1:  
+  - Fixed WT32 schematic, added additional outputs  
+  - Added PWM control for fans  
+  - Improved main power supply schematic  
+  - Added output schematics  
+  - Added initial PCB layout (no routing yet, only component placement)
+
+Update 2:  
+  - Added TVS diodes  
+  - Added CD4060E circuit used as a TON relay  
+  - Improved component placement on the PCB layout  
+  - Routed part of the PCB traces  
+  
 Update 2:
 
 ![](SCHv3.png)
