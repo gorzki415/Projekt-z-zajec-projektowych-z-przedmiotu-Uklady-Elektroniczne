@@ -33,6 +33,24 @@ Update:
   - Dodany schemat wyjść  
   - Dodany wstępny schemat BRD (brak ścieżek, tylko rozkład elementów)  
 
+Update 2:
+  - Dodano diody transil
+  - Dodano układ CD4060E wykorzystywany jako przekaźnik TON
+  - Poprawiono rozłożenie komponentów na schemacie BRD
+  - Poprowadzono część ścieżek na schemacie BRD
+
+Update 2:
+
+![](SCHv3.png)
+![](S1v3.png)
+![](S2v3.png)
+![](S3v3/png)
+![](S4v3.png)
+![](S5v3.png)
+![](S7v3.png)
+  
+Update 1:
+  
 ![](SCH_v2.png)
 ![](S1.png)
 ![](S2.png)
