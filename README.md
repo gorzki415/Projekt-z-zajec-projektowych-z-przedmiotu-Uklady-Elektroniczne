@@ -44,7 +44,8 @@ Update 3:
   - Zmieniono połączenia w sekcji głównego zasilania  
   - Dodano rezystor 0 ohm w sekcji sterującej  
   - Zmieniono połączenia diod transil w sekcji wyjść  
-  - Dodano dodatkowy radiator i otwór montażowy  
+  - Dodano dodatkowy radiator i otwór montażowy
+  - Wszystkie ścieżki na schemacie BRD zostały poprowadzone  
     
 English:  
 
@@ -89,7 +90,17 @@ Update 3:
   - Connections in the main power section have been modified  
   - A 0-ohm resistor has been added in the control section  
   - Connections of the TVS diodes in the output section have been modified  
-  - An additional heatsink and mounting hole have been added   
+  - An additional heatsink and mounting hole have been added
+  - All traces in BRD schematic have been routed  
+
+Update 3:  
+
+![](S2v4.png)  
+![](S3v4.png)  
+![](S5v4.png)  
+![](S6v4.png)  
+![](BRDv4.png)
+![](3D.png)  
   
 Update 2:
 
