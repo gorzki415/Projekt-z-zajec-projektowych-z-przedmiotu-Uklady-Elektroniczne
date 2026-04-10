@@ -86,10 +86,10 @@ Update 2:
   - Routed part of the PCB traces
 
 Update 3:    
-  - Zmieniono połączenia w sekcji głównego zasilania    
-  - Dodano rezystor 0 ohm w sekcji sterującej    
-  - Zmieniono połączenia diod transil w sekcji wyjść    
-  - Dodano dodatkowy radiator i otwór montażowy   
+  - Connections in the main power section have been modified  
+  - A 0-ohm resistor has been added in the control section  
+  - Connections of the TVS diodes in the output section have been modified  
+  - An additional heatsink and mounting hole have been added   
   
 Update 2:
 
