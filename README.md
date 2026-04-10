@@ -39,7 +39,13 @@ Update 2:
   - Dodano układ CD4060E wykorzystywany jako przekaźnik TON
   - Poprawiono rozłożenie komponentów na schemacie BRD
   - Poprowadzono część ścieżek na schemacie BRD
-  
+
+Update 3:  
+  - Zmieniono połączenia w sekcji głównego zasilania  
+  - Dodano rezystor 0 ohm w sekcji sterującej  
+  - Zmieniono połączenia diod transil w sekcji wyjść  
+  - Dodano dodatkowy radiator i otwór montażowy  
+    
 English:  
 
 (Ongoing project, not yet completed)  
@@ -77,7 +83,13 @@ Update 2:
   - Added TVS diodes  
   - Added CD4060E circuit used as a TON relay  
   - Improved component placement on the PCB layout  
-  - Routed part of the PCB traces  
+  - Routed part of the PCB traces
+
+Update 3:    
+  - Zmieniono połączenia w sekcji głównego zasilania    
+  - Dodano rezystor 0 ohm w sekcji sterującej    
+  - Zmieniono połączenia diod transil w sekcji wyjść    
+  - Dodano dodatkowy radiator i otwór montażowy   
   
 Update 2:
 
